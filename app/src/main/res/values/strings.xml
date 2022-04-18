@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">usoRoom</string>
+    <string name="nombre">Descripcion</string>
+    <string name="abreviacion">Abreviacion</string>
+    <string name="enter_user_form">Agregar nueva Clasificacion</string>
+    <string name="save">Guardar</string>
+</resources>
